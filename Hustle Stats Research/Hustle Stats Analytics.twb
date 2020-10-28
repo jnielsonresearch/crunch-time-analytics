@@ -2220,8 +2220,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='40' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='39' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='42' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='41' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='Top Hustle Players' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2308,8 +2308,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='53' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='52' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='55' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='54' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='49750' id='15' mode='checkdropdown' name='Team Hustle Stats' param='[federated.0huq49e08yulwh11i5sj90ikoiai].[none:TEAM_ABBREVIATION:nk]' type='filter' values='database' w='11500' x='87700' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2413,8 +2413,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='26' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='25' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='28' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='27' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='25250' id='11' mode='checkdropdown' name='Team Hustle Rank By Season' param='[federated.0huq49e08yulwh11i5sj90ikoiai].[none:SEASON:nk]' type='filter' values='database' w='16000' x='83200' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2573,7 +2573,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='3' />
+      <active id='-1' />
       <simple-id uuid='{C9B6A32B-06D8-4283-BA32-A54C8C80520A}' />
     </window>
     <window class='worksheet' name='Team Hustle Stats'>
