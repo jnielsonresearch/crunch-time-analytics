@@ -13,7 +13,12 @@ FOLDER RESEARCH
   2) Please follow instructions below for each
 
   Game Rotation Research
-  1)...
+  1) Includes two jupyter notebooks data_gathering.ipynb for the data gathering, cleaning, and data merges 
+     and Analysis.ipynb for data exploration, analysis and classification modeling of game rotation metrics 
+     to predict expected outcomes (win/loss).
+  2) Tableau dashboard file Dashboard - Game Roatation.twbx includes dashboards for player and team rotation 
+     stats for the NBA playoff seasons 2015-2020. 
+  3) Data sub folder hosts datasets created by jupyter notebook data_gathering.ipynb from nba_api feed.
 
   Hustle Stats Research:
   1) Includes two jupyter notebooks NBAHustleStats.ipynb for the data gathering, cleaning, and data merges 
