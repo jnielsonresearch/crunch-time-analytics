@@ -41,7 +41,8 @@ FOLDER RESEARCH
   4) Charts sub folder png exports of Tableau visualization used in final report and poster.
 
   Team Composition Research
-  1)....
+  1) Contains accumulated data from https://www.basketball-reference.com/ on team age, team continuity, top players in the NBA Bubble, and results from difference in difference analysis performed in Excel.
+  
 	
 EXECUTION
 
