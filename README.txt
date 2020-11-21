@@ -2,10 +2,12 @@ DESCRIPTION
   This is a group project within the course "Data & Visual Analytics" fall 2020 at 
   the Georgia Institute of Technology. It identifies and analyzes game-decisive 
   factors before and during the NBA Bubble.
+  
 INSTALLATION
   1) Download repo
   2) Pip install requirements.txt ($ pip install -r requirements.txt)
   3) Install Tableau (not included in this repo)
+  
 FOLDER RESEARCH
   1) Each folder performs an in depth analysis
   2) Please follow instructions below for each
@@ -14,11 +16,10 @@ FOLDER RESEARCH
   1)...
 
   Hustle Stats Research:
-  1) Includes two jupyter notebooks NBAHustleStats.ipynb for the data gathering, cleaning, and data merges and Classification_models.ipynb for data exploration, analysis,
-    data visualization, and classification modeling of hustle stats to predict expected outcomes (win/loss). These jupyter notebooks can been run on a local server or through
-    Google Colab through the included link at the top of the notebook. 
-  2) Tableau dashboard file Hustle Stats Analytics.twb includes dashboards for player and team hustle stats 
-    for the NBA playoff seasons 2015-2020. 
+  1) Includes two jupyter notebooks NBAHustleStats.ipynb for the data gathering, cleaning, and data merges and Classification_models.ipynb 
+     for data exploration, analysis, data visualization, and classification modeling of hustle stats to predict expected outcomes (win/loss). 
+     These jupyter notebooks can been run on a local server or through Google Colab through the included link at the top of the notebook. 
+  2) Tableau dashboard file Hustle Stats Analytics.twb includes dashboards for player and team hustle stats for the NBA playoff seasons 2015-2020. 
   3) Data sub folder hosts datasets created by jupyter notebook NBAHustleStats.ipynb from nba_api feed.
   4) Charts sub folder png exports of Tableau dashboards used in final report and poster. 
 
@@ -28,11 +29,8 @@ FOLDER RESEARCH
   Team Composition Research
   1)...
 	
-  
+EXECUTION
 
-
-
-
-1) Start Jupyter Notebook ($ jupyter notebook)
+  1) Start Jupyter Notebook ($ jupyter notebook)
   2) Execute desired notebooks
   3) Open Tableau dashboards
