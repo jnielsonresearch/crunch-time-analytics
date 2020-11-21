@@ -6,7 +6,27 @@ INSTALLATION
   1) Download repo
   2) Pip install requirements.txt ($ pip install -r requirements.txt)
   3) Install Tableau (not included in this repo)
-EXECUTION
-  1) Start Jupyter Notebook ($ jupyter notebook)
+FOLDER RESEARCH
+  1) Each folder performs an in depth analysis
+  2) Please follow instructions below for each
+
+  Game Rotation Research
+  1)...
+
+  Hustle Stats Research
+  1)...
+
+  Shot Selection Research
+  1)...
+
+  Team Composition Research
+  1)...
+	
+  
+
+
+
+
+1) Start Jupyter Notebook ($ jupyter notebook)
   2) Execute desired notebooks
   3) Open Tableau dashboards
