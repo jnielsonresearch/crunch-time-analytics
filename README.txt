@@ -42,10 +42,3 @@ FOLDER RESEARCH
 
   Team Composition Research
   1) Contains accumulated data from https://www.basketball-reference.com/ on team age, team continuity, top players in the NBA Bubble, and results from difference in difference analysis performed in Excel.
-  
-	
-EXECUTION
-
-  1) Start Jupyter Notebook ($ jupyter notebook)
-  2) Execute desired notebooks
-  3) Open Tableau dashboards
