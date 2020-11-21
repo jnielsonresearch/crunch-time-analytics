@@ -1,9 +1,10 @@
 DESCRIPTION
   This is a group project within the course "Data & Visual Analytics" Fall 2020 at 
-  the Georgia Institute of Technology. During a global pandemic, the National Basketball Association (NBA) finished the rest of
-  the season in Walt Disney World, Florida in a first of its kind isolated ‘Bubble’. We explore the effect on the NBA playoffs. We
-  analyze how the factors that determine player and game outcome have changed without travel or fans at games. Explored data from
-  the past 5 NBA Seasons.
+  the Georgia Institute of Technology. During a global pandemic, the National Basketball Association
+  (NBA) finished the rest of the season in Walt Disney World, Florida in a first of its kind isolated 
+  ‘Bubble’. We explore the effect on the NBA playoffs. We analyze how the factors that determine player
+  and game outcome have changed without travel or fans at games. Explored data from the past 5 NBA
+  Seasons.
   
 INSTALLATION
   1) Clone or download repo
