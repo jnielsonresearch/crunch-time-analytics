@@ -41,7 +41,7 @@ FOLDER RESEARCH
   4) Charts sub folder png exports of Tableau visualization used in final report and poster.
 
   Team Composition Research
-  1)...
+  1)....
 	
 EXECUTION
 
