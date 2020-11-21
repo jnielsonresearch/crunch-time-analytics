@@ -47,4 +47,5 @@ EXECUTION
   1) Contains accumulated data from https://www.basketball-reference.com/ on team age, team continuity, 
   top players in the NBA Bubble, and results from difference in difference analysis performed in Excel.
   
-  Demo video link on YouTube: https://youtu.be/fubInB1-cu8
+DEMO VIDEO
+https://youtu.be/fubInB1-cu8
