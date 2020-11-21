@@ -35,8 +35,8 @@ FOLDER RESEARCH
      and ShotSelectionAnalysis.ipynb for data exploration, analysis, data visualization, and classification 
      modeling of hustle stats to predict expected outcomes (win/loss). These jupyter notebooks can been run 
      on a local server. 
-  2) Tableau dashboard file ShotSelectionVisualization.twb includes a shot chart interactive visualization for the NBA 
-     playoff seasons 2015-2020. 
+  2) Tableau dashboard file ShotSelectionVisualization.twb includes a shot chart interactive visualization for 
+     the NBA playoff seasons 2015-2020. 
   3) Data sub folder hosts datasets created by jupyter notebook ShotSelectionStats.ipynb from nba_api feed.
   4) Charts sub folder png exports of Tableau visualization used in final report and poster.
 
