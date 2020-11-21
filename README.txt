@@ -4,7 +4,7 @@ DESCRIPTION
   factors before and during the NBA Bubble.
 INSTALLATION
   1) Download repo
-  2) Pip install requirments.txt ($ pip install -r requirements.txt)
+  2) Pip install requirements.txt ($ pip install -r requirements.txt)
   3) Install Tableau (not included in this repo)
 EXECUTION
   1) Start Jupyter Notebook ($ jupyter notebook)
