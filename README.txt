@@ -15,7 +15,7 @@ EXECUTION
   1) Each folder performs an in-depth analysis
   2) Please follow instructions below for each
 
-  Game Rotation Research
+  Game Rotation Research:
   1) Includes two jupyter notebooks data_gathering.ipynb for the data gathering, cleaning, and data merges 
      and Analysis.ipynb for data exploration, analysis and classification modeling of game rotation metrics 
      to predict expected outcomes (win/loss).
@@ -33,7 +33,7 @@ EXECUTION
   3) Data sub folder hosts datasets created by jupyter notebook NBAHustleStats.ipynb from nba_api feed.
   4) Charts sub folder png exports of Tableau dashboards used in final report and poster. 
 
-  Shot Selection Research
+  Shot Selection Research:
   1) Includes two jupyter notebooks ShotSelectionStats.ipynb for the data gathering, cleaning, and data merges 
      and ShotSelectionAnalysis.ipynb for data exploration, analysis, data visualization, and classification 
      modeling of hustle stats to predict expected outcomes (win/loss). These jupyter notebooks can been run 
@@ -43,6 +43,6 @@ EXECUTION
   3) Data sub folder hosts datasets created by jupyter notebook ShotSelectionStats.ipynb from nba_api feed.
   4) Charts sub folder png exports of Tableau visualization used in final report and poster.
 
-  Team Composition Research
+  Team Composition Research:
   1) Contains accumulated data from https://www.basketball-reference.com/ on team age, team continuity, 
   top players in the NBA Bubble, and results from difference in difference analysis performed in Excel.
